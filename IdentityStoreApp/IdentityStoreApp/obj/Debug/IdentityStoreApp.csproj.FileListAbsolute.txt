@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\IdentityStoreApp\IdentityStoreApp\bin\Debug\IdentityStoreApp.exe.config
+G:\Học Lập Trình\C#\IdentityStoreApp\IdentityStoreApp\bin\Debug\IdentityStoreApp.exe
+G:\Học Lập Trình\C#\IdentityStoreApp\IdentityStoreApp\bin\Debug\IdentityStoreApp.pdb
+G:\Học Lập Trình\C#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.exe
+G:\Học Lập Trình\C#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.pdb

@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\bin\Debug\MyFirstApplycation.exe.config
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\bin\Debug\MyFirstApplycation.exe
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\bin\Debug\MyFirstApplycation.pdb
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\obj\Debug\MyFirstApplycation.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\obj\Debug\MyFirstApplycation.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\obj\Debug\MyFirstApplycation.exe
+G:\Học Lập Trình\C#\MyFirstApplycation\MyFirstApplycation\obj\Debug\MyFirstApplycation.pdb

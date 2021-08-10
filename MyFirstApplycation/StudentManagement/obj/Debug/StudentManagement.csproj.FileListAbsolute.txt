@@ -1,0 +1,11 @@
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\bin\Debug\StudentManagement.exe.config
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\bin\Debug\StudentManagement.exe
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\bin\Debug\StudentManagement.pdb
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\bin\Debug\MyFirstApplycation.exe
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\bin\Debug\MyFirstApplycation.pdb
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\bin\Debug\MyFirstApplycation.exe.config
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\obj\Debug\StudentManagement.exe
+G:\Học Lập Trình\C#\MyFirstApplycation\StudentManagement\obj\Debug\StudentManagement.pdb
