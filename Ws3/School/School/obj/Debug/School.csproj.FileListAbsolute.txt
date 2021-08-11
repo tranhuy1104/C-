@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\Ws3\School\School\bin\Debug\School.exe.config
+G:\Học Lập Trình\C#\Ws3\School\School\bin\Debug\School.exe
+G:\Học Lập Trình\C#\Ws3\School\School\bin\Debug\School.pdb
+G:\Học Lập Trình\C#\Ws3\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\Ws3\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Ws3\School\School\obj\Debug\School.exe
+G:\Học Lập Trình\C#\Ws3\School\School\obj\Debug\School.pdb

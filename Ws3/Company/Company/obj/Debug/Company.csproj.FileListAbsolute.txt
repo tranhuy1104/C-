@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\Ws3\Company\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\Ws3\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Ws3\Company\Company\bin\Debug\Company.exe.config
+G:\Học Lập Trình\C#\Ws3\Company\Company\bin\Debug\Company.exe
+G:\Học Lập Trình\C#\Ws3\Company\Company\bin\Debug\Company.pdb
+G:\Học Lập Trình\C#\Ws3\Company\Company\obj\Debug\Company.exe
+G:\Học Lập Trình\C#\Ws3\Company\Company\obj\Debug\Company.pdb
