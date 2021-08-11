@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab1\ValueType\ValueType\bin\Debug\ValueType.exe.config
+G:\Học Lập Trình\C#\Lab1\ValueType\ValueType\bin\Debug\ValueType.exe
+G:\Học Lập Trình\C#\Lab1\ValueType\ValueType\bin\Debug\ValueType.pdb
+G:\Học Lập Trình\C#\Lab1\ValueType\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\ValueType\ValueType\obj\Debug\ValueType.exe
+G:\Học Lập Trình\C#\Lab1\ValueType\ValueType\obj\Debug\ValueType.pdb

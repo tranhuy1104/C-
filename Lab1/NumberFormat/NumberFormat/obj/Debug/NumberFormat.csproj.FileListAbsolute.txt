@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab1\NumberFormat\NumberFormat\bin\Debug\NumberFormat.exe.config
+G:\Học Lập Trình\C#\Lab1\NumberFormat\NumberFormat\bin\Debug\NumberFormat.exe
+G:\Học Lập Trình\C#\Lab1\NumberFormat\NumberFormat\bin\Debug\NumberFormat.pdb
+G:\Học Lập Trình\C#\Lab1\NumberFormat\NumberFormat\obj\Debug\NumberFormat.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\NumberFormat\NumberFormat\obj\Debug\NumberFormat.exe
+G:\Học Lập Trình\C#\Lab1\NumberFormat\NumberFormat\obj\Debug\NumberFormat.pdb

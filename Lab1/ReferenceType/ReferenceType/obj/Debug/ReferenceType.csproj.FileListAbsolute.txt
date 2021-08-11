@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab1\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe.config
+G:\Học Lập Trình\C#\Lab1\ReferenceType\ReferenceType\bin\Debug\ReferenceType.exe
+G:\Học Lập Trình\C#\Lab1\ReferenceType\ReferenceType\bin\Debug\ReferenceType.pdb
+G:\Học Lập Trình\C#\Lab1\ReferenceType\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\ReferenceType\ReferenceType\obj\Debug\ReferenceType.exe
+G:\Học Lập Trình\C#\Lab1\ReferenceType\ReferenceType\obj\Debug\ReferenceType.pdb

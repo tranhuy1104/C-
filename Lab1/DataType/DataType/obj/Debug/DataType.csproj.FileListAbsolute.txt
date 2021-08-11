@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\bin\Debug\DataType.exe.config
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\bin\Debug\DataType.exe
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\bin\Debug\DataType.pdb
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\obj\Debug\DataType.exe
+G:\Học Lập Trình\C#\Lab1\DataType\DataType\obj\Debug\DataType.pdb

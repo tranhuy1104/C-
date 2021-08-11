@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab1\DateTimeFormat\DateTimeFormat\bin\Debug\DateTimeFormat.exe.config
+G:\Học Lập Trình\C#\Lab1\DateTimeFormat\DateTimeFormat\bin\Debug\DateTimeFormat.exe
+G:\Học Lập Trình\C#\Lab1\DateTimeFormat\DateTimeFormat\bin\Debug\DateTimeFormat.pdb
+G:\Học Lập Trình\C#\Lab1\DateTimeFormat\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\DateTimeFormat\DateTimeFormat\obj\Debug\DateTimeFormat.exe
+G:\Học Lập Trình\C#\Lab1\DateTimeFormat\DateTimeFormat\obj\Debug\DateTimeFormat.pdb

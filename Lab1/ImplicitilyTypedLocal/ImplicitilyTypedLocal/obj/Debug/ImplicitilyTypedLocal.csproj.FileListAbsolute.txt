@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab1\ImplicitilyTypedLocal\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe.config
+G:\Học Lập Trình\C#\Lab1\ImplicitilyTypedLocal\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe
+G:\Học Lập Trình\C#\Lab1\ImplicitilyTypedLocal\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.pdb
+G:\Học Lập Trình\C#\Lab1\ImplicitilyTypedLocal\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\ImplicitilyTypedLocal\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.exe
+G:\Học Lập Trình\C#\Lab1\ImplicitilyTypedLocal\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.pdb

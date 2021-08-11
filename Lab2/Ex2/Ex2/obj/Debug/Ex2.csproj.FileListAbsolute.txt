@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\bin\Debug\Ex2.exe.config
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\bin\Debug\Ex2.exe
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\bin\Debug\Ex2.pdb
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\obj\Debug\Ex2.exe
+G:\Học Lập Trình\C#\Lab2\Ex2\Ex2\obj\Debug\Ex2.pdb

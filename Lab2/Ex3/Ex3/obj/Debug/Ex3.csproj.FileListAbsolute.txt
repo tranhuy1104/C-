@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\bin\Debug\Ex3.exe.config
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\bin\Debug\Ex3.exe
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\bin\Debug\Ex3.pdb
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\obj\Debug\Ex3.exe
+G:\Học Lập Trình\C#\Lab2\Ex3\Ex3\obj\Debug\Ex3.pdb

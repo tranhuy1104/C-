@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab1\AnonTypes\AnonTypes\obj\Debug\AnonTypes.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab1\AnonTypes\AnonTypes\bin\Debug\AnonTypes.exe.config
+G:\Học Lập Trình\C#\Lab1\AnonTypes\AnonTypes\bin\Debug\AnonTypes.exe
+G:\Học Lập Trình\C#\Lab1\AnonTypes\AnonTypes\bin\Debug\AnonTypes.pdb
+G:\Học Lập Trình\C#\Lab1\AnonTypes\AnonTypes\obj\Debug\AnonTypes.exe
+G:\Học Lập Trình\C#\Lab1\AnonTypes\AnonTypes\obj\Debug\AnonTypes.pdb
