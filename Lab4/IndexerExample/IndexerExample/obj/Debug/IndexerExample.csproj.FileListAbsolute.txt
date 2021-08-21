@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\Lab4\IndexerExample\IndexerExample\bin\Debug\IndexerExample.exe.config
+G:\Học Lập Trình\C#\Lab4\IndexerExample\IndexerExample\bin\Debug\IndexerExample.exe
+G:\Học Lập Trình\C#\Lab4\IndexerExample\IndexerExample\bin\Debug\IndexerExample.pdb
+G:\Học Lập Trình\C#\Lab4\IndexerExample\IndexerExample\obj\Debug\IndexerExample.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab4\IndexerExample\IndexerExample\obj\Debug\IndexerExample.exe
+G:\Học Lập Trình\C#\Lab4\IndexerExample\IndexerExample\obj\Debug\IndexerExample.pdb

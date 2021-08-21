@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Học Lập Trình\C#\Lab4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
