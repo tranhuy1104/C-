@@ -1,0 +1,6 @@
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\ExHandling2\bin\Debug\ExHandling2.exe.config
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\ExHandling2\bin\Debug\ExHandling2.exe
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\ExHandling2\bin\Debug\ExHandling2.pdb
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\ExHandling2\obj\Debug\ExHandling2.csproj.CoreCompileInputs.cache
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\ExHandling2\obj\Debug\ExHandling2.exe
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\ExHandling2\obj\Debug\ExHandling2.pdb

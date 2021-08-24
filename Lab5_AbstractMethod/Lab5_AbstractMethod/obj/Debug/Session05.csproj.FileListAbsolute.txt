@@ -1,0 +1,7 @@
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\bin\Debug\Lab5_AbstractMethod.exe.config
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\bin\Debug\Lab5_AbstractMethod.exe
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\bin\Debug\Lab5_AbstractMethod.pdb
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\obj\Debug\Session05.csproj.AssemblyReference.cache
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\obj\Debug\Session05.csproj.CoreCompileInputs.cache
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\obj\Debug\Lab5_AbstractMethod.exe
+D:\epc\Ap-Sem2\C#\Lab-csharp\lab_csharp\Lab5_AbstractMethod\Lab5_AbstractMethod\obj\Debug\Lab5_AbstractMethod.pdb
