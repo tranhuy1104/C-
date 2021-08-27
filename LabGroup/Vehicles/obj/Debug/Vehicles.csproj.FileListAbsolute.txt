@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\LabGroup\Vehicles\bin\Debug\Vehicles.exe.config
+G:\Học Lập Trình\C#\LabGroup\Vehicles\bin\Debug\Vehicles.exe
+G:\Học Lập Trình\C#\LabGroup\Vehicles\bin\Debug\Vehicles.pdb
+G:\Học Lập Trình\C#\LabGroup\Vehicles\obj\Debug\Vehicles.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\LabGroup\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\LabGroup\Vehicles\obj\Debug\Vehicles.exe
+G:\Học Lập Trình\C#\LabGroup\Vehicles\obj\Debug\Vehicles.pdb

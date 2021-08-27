@@ -1,0 +1,7 @@
+G:\Học Lập Trình\C#\LabGroup\Shapes\bin\Debug\Shapes.exe.config
+G:\Học Lập Trình\C#\LabGroup\Shapes\bin\Debug\Shapes.exe
+G:\Học Lập Trình\C#\LabGroup\Shapes\bin\Debug\Shapes.pdb
+G:\Học Lập Trình\C#\LabGroup\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+G:\Học Lập Trình\C#\LabGroup\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\LabGroup\Shapes\obj\Debug\Shapes.exe
+G:\Học Lập Trình\C#\LabGroup\Shapes\obj\Debug\Shapes.pdb

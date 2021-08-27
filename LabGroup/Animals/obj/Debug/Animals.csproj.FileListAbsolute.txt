@@ -1,0 +1,6 @@
+G:\Học Lập Trình\C#\LabGroup\Animals\bin\Debug\Animals.exe.config
+G:\Học Lập Trình\C#\LabGroup\Animals\bin\Debug\Animals.exe
+G:\Học Lập Trình\C#\LabGroup\Animals\bin\Debug\Animals.pdb
+G:\Học Lập Trình\C#\LabGroup\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+G:\Học Lập Trình\C#\LabGroup\Animals\obj\Debug\Animals.exe
+G:\Học Lập Trình\C#\LabGroup\Animals\obj\Debug\Animals.pdb
